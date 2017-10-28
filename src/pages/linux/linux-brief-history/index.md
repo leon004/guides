@@ -14,4 +14,8 @@ There are several versions of linux named distros like:
    <li>Elementary OS</li>
   <li>Ubuntu</li>
   <li>Gentoo</li>
+  <li>Kali Linux</li>
+  <li>Puppy Linux </li>
+  <li>Astro Linux</li>
+   <li>Arch Linux</li>
 </ul>
