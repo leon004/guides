@@ -19,3 +19,5 @@ There are several versions of linux named distros like:
   <li>Astro Linux</li>
    <li>Arch Linux</li>
 </ul>
+
+I recommend you the book Linux pocket guide essential comands by Daniel J. Barret
