@@ -11,4 +11,7 @@ There are several versions of linux named distros like:
   <li>Debian Linux</li>
   <li>Fedora </li>
   <li>Linux Mint</li>
+   <li>Elementary OS</li>
+  <li>Ubuntu</li>
+  <li>Gentoo</li>
 </ul>
